@@ -2,7 +2,7 @@ node_modules/
 test/coverage/
 coverage/
 src/**/site/
-dist
+dist/
 # theme.config
 # semantic.json
 tasks/**/oauth.js
@@ -37,3 +37,4 @@ nbproject
 .build*
 .idea
 .vscode
+
