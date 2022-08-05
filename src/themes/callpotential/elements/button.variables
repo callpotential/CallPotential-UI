@@ -13,7 +13,7 @@
 @borderBoxShadowColor: @borderColor;
 
 /* Shadow */
-@shadowDistance: 0.3em;
+@shadowDistance: 0.1em;
 @verticalPadding: 1em;
 @horizontalPadding: 2em;
 

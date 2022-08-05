@@ -24,9 +24,9 @@
   background: #F8F8F8 -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.05));
   background: #F8F8F8 linear-gradient(transparent, rgba(0, 0, 0, 0.05));
   color: rgba(0, 0, 0, 0.6);
-  font-family: 'Lato', system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'SF UI Text', system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   margin: 0 0.25em 0 0;
-  padding: 1em 2em 1.15em;
+  padding: 1em 2em 1.05em;
   text-transform: none;
   text-shadow: none;
   font-weight: bold;
@@ -35,8 +35,8 @@
   text-align: center;
   text-decoration: none;
   border-radius: 0.4em;
-  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -64,8 +64,8 @@
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, 0.05)));
   background-image: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.05));
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.05));
-  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
   color: rgba(0, 0, 0, 0.8);
 }
 .ui.button:hover .icon {
@@ -452,8 +452,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.facebook.button:hover {
   background-color: #304d8a;
@@ -472,8 +472,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.twitter.button:hover {
   background-color: #0298f3;
@@ -492,8 +492,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.google.plus.button:hover {
   background-color: #e0321c;
@@ -529,8 +529,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.youtube.button:hover {
   background-color: #e60000;
@@ -549,8 +549,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.instagram.button:hover {
   background-color: #3d698e;
@@ -569,8 +569,8 @@
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.pinterest.button:hover {
   background-color: #ac0013;
@@ -588,8 +588,8 @@
   background-color: #45668E;
   color: #FFFFFF;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.vk.button:hover {
   background-color: #395980;
@@ -605,8 +605,8 @@
   background-color: #25D366;
   color: #FFFFFF;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.whatsapp.button:hover {
   background-color: #19c55a;
@@ -622,8 +622,8 @@
   background-color: #0088CC;
   color: #FFFFFF;
   background-image: none;
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.telegram.button:hover {
   background-color: #0077b3;
@@ -713,15 +713,15 @@
 
 .ui.compact.buttons .button,
 .ui.compact.button {
-  padding: 0.75em 1.5em 0.9em;
+  padding: 0.75em 1.5em 0.8em;
 }
 .ui.compact.icon.buttons .button,
 .ui.compact.icon.button {
-  padding: 0.75em 0.75em 0.9em;
+  padding: 0.75em 0.75em 0.8em;
 }
 .ui.compact.labeled.icon.buttons .button,
 .ui.compact.labeled.icon.button {
-  padding: 0.75em 4.5em 0.9em;
+  padding: 0.75em 4.5em 0.8em;
 }
 .ui.compact.labeled.icon.buttons .button > .icon,
 .ui.compact.labeled.icon.button > .icon {
@@ -793,7 +793,7 @@
 
 .ui.icon.buttons .button,
 .ui.icon.button:not(.animated):not(.compact):not(.labeled) {
-  padding: 1em 1em 1.15em;
+  padding: 1em 1em 1.05em;
 }
 .ui.animated.icon.button > .content > .icon,
 .ui.icon.buttons .button > .icon,
@@ -943,7 +943,7 @@
   -webkit-transition: color 0.1s ease !important;
   transition: color 0.1s ease !important;
   border-radius: 0;
-  margin: 0.5em 0.25em 0.65em 0 !important;
+  margin: 0.5em 0.25em 0.55em 0 !important;
   padding: 0.5em 0.5em !important;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -1380,8 +1380,8 @@
   background-image: none;
 }
 .ui.primary.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.primary.buttons .button:hover,
 .ui.primary.button:hover {
@@ -1562,8 +1562,8 @@
   background-image: none;
 }
 .ui.secondary.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.secondary.buttons .button:hover,
 .ui.secondary.button:hover {
@@ -1744,8 +1744,8 @@
   background-image: none;
 }
 .ui.red.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.red.buttons .button:hover,
 .ui.red.button:hover {
@@ -1926,8 +1926,8 @@
   background-image: none;
 }
 .ui.orange.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.orange.buttons .button:hover,
 .ui.orange.button:hover {
@@ -2108,8 +2108,8 @@
   background-image: none;
 }
 .ui.yellow.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.yellow.buttons .button:hover,
 .ui.yellow.button:hover {
@@ -2290,8 +2290,8 @@
   background-image: none;
 }
 .ui.olive.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.olive.buttons .button:hover,
 .ui.olive.button:hover {
@@ -2472,8 +2472,8 @@
   background-image: none;
 }
 .ui.green.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.green.buttons .button:hover,
 .ui.green.button:hover {
@@ -2654,8 +2654,8 @@
   background-image: none;
 }
 .ui.teal.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.teal.buttons .button:hover,
 .ui.teal.button:hover {
@@ -2836,8 +2836,8 @@
   background-image: none;
 }
 .ui.blue.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.blue.buttons .button:hover,
 .ui.blue.button:hover {
@@ -3018,8 +3018,8 @@
   background-image: none;
 }
 .ui.violet.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.violet.buttons .button:hover,
 .ui.violet.button:hover {
@@ -3200,8 +3200,8 @@
   background-image: none;
 }
 .ui.purple.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.purple.buttons .button:hover,
 .ui.purple.button:hover {
@@ -3382,8 +3382,8 @@
   background-image: none;
 }
 .ui.pink.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.pink.buttons .button:hover,
 .ui.pink.button:hover {
@@ -3564,8 +3564,8 @@
   background-image: none;
 }
 .ui.brown.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.brown.buttons .button:hover,
 .ui.brown.button:hover {
@@ -3746,8 +3746,8 @@
   background-image: none;
 }
 .ui.grey.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.grey.buttons .button:hover,
 .ui.grey.button:hover {
@@ -3928,8 +3928,8 @@
   background-image: none;
 }
 .ui.black.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.black.buttons .button:hover,
 .ui.black.button:hover {
@@ -4117,8 +4117,8 @@
   background-image: none;
 }
 .ui.positive.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.positive.buttons .button:hover,
 .ui.positive.button:hover {
@@ -4200,8 +4200,8 @@
   background-image: none;
 }
 .ui.negative.button {
-  -webkit-box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.negative.buttons .button:hover,
 .ui.negative.button:hover {
@@ -4309,8 +4309,8 @@
   margin: 0 0 0 0;
 }
 .ui.buttons:not(.basic):not(.inverted) > .button:not(.basic):not(.inverted) {
-  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
-          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.3em 0 0 rgba(34, 36, 38, 0.15) inset;
+  -webkit-box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
+          box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset, 0 -0.1em 0 0 rgba(34, 36, 38, 0.15) inset;
 }
 .ui.buttons .button:first-child {
   border-left: none;
