@@ -318,7 +318,7 @@
 }
 .ui.cards > .card .meta > a:not(.ui):hover,
 .ui.card .meta > a:not(.ui):hover {
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 
 /*--------------
@@ -722,8 +722,8 @@ a.ui.basic.inverted.primary.card:hover,
 .ui.secondary.cards > .card,
 .ui.cards > .secondary.card,
 .ui.secondary.card {
-  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1B1C1D, 0 1px 3px 0 #D4D4D5;
-          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1B1C1D, 0 1px 3px 0 #D4D4D5;
+  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #164205, 0 1px 3px 0 #D4D4D5;
+          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #164205, 0 1px 3px 0 #D4D4D5;
 }
 .ui.cards a.secondary.card:hover,
 .ui.secondary.cards a.card:hover,
@@ -731,8 +731,8 @@ a.ui.basic.inverted.primary.card:hover,
 .ui.link.cards .secondary.card:not(.icon):hover,
 a.ui.secondary.card:hover,
 .ui.link.secondary.card:hover {
-  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #27292a, 0 1px 3px 0 #BCBDBD;
-          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #27292a, 0 1px 3px 0 #BCBDBD;
+  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1c5e03, 0 1px 3px 0 #BCBDBD;
+          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1c5e03, 0 1px 3px 0 #BCBDBD;
 }
 .ui.cards > .basic.secondary.card,
 .ui.basic.secondary.cards > .card,
@@ -769,7 +769,7 @@ a.ui.inverted.secondary.card:hover,
 .ui.basic.inverted.secondary.cards > .card,
 .ui.basic.inverted.cards > .secondary.card,
 .ui.basic.inverted.secondary.card {
-  background: #1B1C1D;
+  background: #164205;
 }
 .ui.inverted.cards a.basic.secondary.card:hover,
 .ui.basic.inverted.cards a.secondary.card:hover,
@@ -779,7 +779,7 @@ a.ui.inverted.secondary.card:hover,
 .ui.link.basic.inverted.cards .secondary.card:not(.icon):hover,
 a.ui.basic.inverted.secondary.card:hover,
 .ui.link.basic.inverted.secondary.card:hover {
-  background: #27292a;
+  background: #1c5e03;
 }
 .ui.red.cards > .card,
 .ui.cards > .red.card,
@@ -1528,8 +1528,8 @@ a.ui.basic.inverted.grey.card:hover,
 .ui.black.cards > .card,
 .ui.cards > .black.card,
 .ui.black.card {
-  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1B1C1D, 0 1px 3px 0 #D4D4D5;
-          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1B1C1D, 0 1px 3px 0 #D4D4D5;
+  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #164205, 0 1px 3px 0 #D4D4D5;
+          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #164205, 0 1px 3px 0 #D4D4D5;
 }
 .ui.cards a.black.card:hover,
 .ui.black.cards a.card:hover,
@@ -1537,8 +1537,8 @@ a.ui.basic.inverted.grey.card:hover,
 .ui.link.cards .black.card:not(.icon):hover,
 a.ui.black.card:hover,
 .ui.link.black.card:hover {
-  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #27292a, 0 1px 3px 0 #BCBDBD;
-          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #27292a, 0 1px 3px 0 #BCBDBD;
+  -webkit-box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1e5a07, 0 1px 3px 0 #BCBDBD;
+          box-shadow: 0 0 0 1px #D4D4D5, 0 2px 0 0 #1e5a07, 0 1px 3px 0 #BCBDBD;
 }
 .ui.cards > .basic.black.card,
 .ui.basic.black.cards > .card,
@@ -1593,7 +1593,7 @@ a.ui.inverted.black.card:hover,
 .ui.basic.inverted.black.cards > .card,
 .ui.basic.inverted.cards > .black.card,
 .ui.basic.inverted.black.card {
-  background: #1B1C1D;
+  background: #164205;
 }
 .ui.inverted.cards a.basic.black.card:hover,
 .ui.basic.inverted.cards a.black.card:hover,
@@ -1603,7 +1603,7 @@ a.ui.inverted.black.card:hover,
 .ui.link.basic.inverted.cards .black.card:not(.icon):hover,
 a.ui.basic.inverted.black.card:hover,
 .ui.link.basic.inverted.black.card:hover {
-  background: #27292a;
+  background: #1e5a07;
 }
 
 /*--------------
@@ -1938,7 +1938,7 @@ a.ui.basic.inverted.black.card:hover,
 
 .ui.inverted.cards > .card,
 .ui.inverted.card {
-  background: #1B1C1D;
+  background: #164205;
   -webkit-box-shadow: 0 1px 3px 0 #555555, 0 0 0 1px #555555;
           box-shadow: 0 1px 3px 0 #555555, 0 0 0 1px #555555;
 }
@@ -2003,7 +2003,7 @@ a.ui.basic.inverted.black.card:hover,
 .ui.inverted.link.cards .card:not(.icon):hover,
 a.inverted.ui.card:hover,
 .ui.inverted.link.card:hover {
-  background: #1B1C1D;
+  background: #164205;
 }
 
 /* Loading */

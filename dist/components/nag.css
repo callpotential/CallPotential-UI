@@ -29,7 +29,7 @@
           box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
   font-size: 1rem;
   text-align: center;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   border-radius: 0 0 0.28571429rem 0.28571429rem;
   -webkit-transition: 0.2s background ease;
   transition: 0.2s background ease;
@@ -173,7 +173,7 @@ a.ui.nag {
   background-color: #54C8FF;
 }
 .ui.secondary.nag {
-  background-color: #1B1C1D;
+  background-color: #164205;
 }
 .ui.inverted.secondary.nag {
   background-color: #545454;
@@ -251,7 +251,7 @@ a.ui.nag {
   background-color: #DCDDDE;
 }
 .ui.black.nag {
-  background-color: #1B1C1D;
+  background-color: #164205;
   color: rgba(255, 255, 255, 0.9);
 }
 .ui.inverted.black.nag {

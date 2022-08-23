@@ -25,7 +25,7 @@
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.input > input {
   margin: 0;
@@ -40,7 +40,7 @@
   font-family: 'SF UI Text', system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   background: #FFFFFF;
   border: 1px solid rgba(34, 36, 38, 0.15);
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   border-radius: 0.28571429rem;
   -webkit-transition: border-color 0.1s ease, -webkit-box-shadow 0.1s ease;
   transition: border-color 0.1s ease, -webkit-box-shadow 0.1s ease;
@@ -67,14 +67,14 @@
 
 /* browsers require these rules separate */
 .ui.input > input::-webkit-input-placeholder {
-  color: rgba(191, 191, 191, 0.87);
+  color: #fbcaf3;
 }
 .ui.input > input::-moz-placeholder {
-  color: rgba(191, 191, 191, 0.87);
+  color: #fbcaf3;
   opacity: 1;
 }
 .ui.input > input:-ms-input-placeholder {
-  color: rgba(191, 191, 191, 0.87);
+  color: #fbcaf3;
 }
 
 
@@ -104,7 +104,7 @@
 .ui.input.down input {
   border-color: rgba(0, 0, 0, 0.3);
   background: #FAFAFA;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -154,15 +154,15 @@
 }
 .ui.input.focus > input::-webkit-input-placeholder,
 .ui.input > input:focus::-webkit-input-placeholder {
-  color: rgba(115, 115, 115, 0.87);
+  color: #f03cd3;
 }
 .ui.input.focus > input::-moz-placeholder,
 .ui.input > input:focus::-moz-placeholder {
-  color: rgba(115, 115, 115, 0.87);
+  color: #f03cd3;
 }
 .ui.input.focus > input:-ms-input-placeholder,
 .ui.input > input:focus:-ms-input-placeholder {
-  color: rgba(115, 115, 115, 0.87);
+  color: #f03cd3;
 }
 
 /*--------------------
@@ -876,7 +876,7 @@ input[type="file"].ui.file.input:focus + label.ui.primary.button:not(.basic):not
 }
 input[type="file"].ui.file.input:focus + label.ui.secondary.button:not(.basic):not(.tertiary),
 .ui.file.input input[type="file"]:focus + label.ui.secondary.button:not(.basic):not(.tertiary) {
-  background-color: #27292a;
+  background-color: #1c5e03;
   color: #FFFFFF;
 }
 input[type="file"].ui.file.input:focus + label.ui.secondary.button:not(.basic):not(.tertiary).inverted,
@@ -993,7 +993,7 @@ input[type="file"].ui.file.input:focus + label.ui.grey.button:not(.basic):not(.t
 }
 input[type="file"].ui.file.input:focus + label.ui.black.button:not(.basic):not(.tertiary),
 .ui.file.input input[type="file"]:focus + label.ui.black.button:not(.basic):not(.tertiary) {
-  background-color: #27292a;
+  background-color: #1e5a07;
   color: #FFFFFF;
 }
 input[type="file"].ui.file.input:focus + label.ui.black.button:not(.basic):not(.tertiary).inverted,
@@ -1029,30 +1029,30 @@ input[type="file"].ui.primary.file.input::file-selector-button:hover,
 }
 input[type="file"].ui.secondary.file.input::-webkit-file-upload-button,
 .ui.secondary.file.input input[type="file"]::-webkit-file-upload-button {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.secondary.file.input::-webkit-file-upload-button:hover,
 .ui.secondary.file.input input[type="file"]::-webkit-file-upload-button:hover {
-  background: #27292a;
+  background: #1c5e03;
 }
 input[type="file"].ui.secondary.file.input::-ms-browse,
 .ui.secondary.file.input input[type="file"]::-ms-browse {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.secondary.file.input::-ms-browse:hover,
 .ui.secondary.file.input input[type="file"]::-ms-browse:hover {
-  background: #27292a;
+  background: #1c5e03;
 }
 input[type="file"].ui.secondary.file.input::file-selector-button,
 .ui.secondary.file.input input[type="file"]::file-selector-button {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.secondary.file.input::file-selector-button:hover,
 .ui.secondary.file.input input[type="file"]::file-selector-button:hover {
-  background: #27292a;
+  background: #1c5e03;
 }
 input[type="file"].ui.red.file.input::-webkit-file-upload-button,
 .ui.red.file.input input[type="file"]::-webkit-file-upload-button {
@@ -1380,30 +1380,30 @@ input[type="file"].ui.grey.file.input::file-selector-button:hover,
 }
 input[type="file"].ui.black.file.input::-webkit-file-upload-button,
 .ui.black.file.input input[type="file"]::-webkit-file-upload-button {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.black.file.input::-webkit-file-upload-button:hover,
 .ui.black.file.input input[type="file"]::-webkit-file-upload-button:hover {
-  background: #27292a;
+  background: #1e5a07;
 }
 input[type="file"].ui.black.file.input::-ms-browse,
 .ui.black.file.input input[type="file"]::-ms-browse {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.black.file.input::-ms-browse:hover,
 .ui.black.file.input input[type="file"]::-ms-browse:hover {
-  background: #27292a;
+  background: #1e5a07;
 }
 input[type="file"].ui.black.file.input::file-selector-button,
 .ui.black.file.input input[type="file"]::file-selector-button {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 input[type="file"].ui.black.file.input::file-selector-button:hover,
 .ui.black.file.input input[type="file"]::file-selector-button:hover {
-  background: #27292a;
+  background: #1e5a07;
 }
 
 /*--------------------

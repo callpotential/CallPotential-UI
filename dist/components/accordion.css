@@ -30,7 +30,7 @@
   padding: 0.5em 0;
   font-family: 'SF UI Text', system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1em;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   list-style: none;
   line-height: 1;
 }
@@ -161,11 +161,11 @@
 /* Hover */
 .ui.styled.accordion > .title:hover {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.styled.accordion .accordion > .title:hover {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 
 /* Active */
@@ -267,7 +267,7 @@
 }
 .ui.inverted.styled.accordion,
 .ui.inverted.styled.accordion .accordion {
-  background: #1B1C1D;
+  background: #164205;
   -webkit-box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(255, 255, 255, 0.1);
           box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(255, 255, 255, 0.1);
 }
@@ -312,7 +312,7 @@
 .ui.basic.styled.accordion > .title:hover,
 .ui.basic.styled.accordion .accordion > .title:hover {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.basic.styled.accordion[open] > .title,
 .ui.basic.styled.accordion .active.title,

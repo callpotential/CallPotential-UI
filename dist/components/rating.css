@@ -87,7 +87,7 @@
 .ui.rating .icon.selected.active,
 .ui.rating .icon.selected.partial.active {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   background-clip: unset;
 }
 
@@ -116,14 +116,14 @@
 }
 .ui.secondary.rating .active.icon {
   color: #545454;
-  text-shadow: 0px -1px 0px #1B1C1D, -1px 0px 0px #1B1C1D, 0px 1px 0px #1B1C1D, 1px 0px 0px #1B1C1D;
+  text-shadow: 0px -1px 0px #164205, -1px 0px 0px #164205, 0px 1px 0px #164205, 1px 0px 0px #164205;
 }
 .ui.secondary.rating .icon.selected,
 .ui.secondary.rating .icon.selected.active,
 .ui.secondary.rating .icon.selected.partial.active {
   background: inherit;
   color: #6e6e6e;
-  text-shadow: 0px -1px 0px #27292a, -1px 0px 0px #27292a, 0px 1px 0px #27292a, 1px 0px 0px #27292a;
+  text-shadow: 0px -1px 0px #1c5e03, -1px 0px 0px #1c5e03, 0px 1px 0px #1c5e03, 1px 0px 0px #1c5e03;
   -webkit-text-stroke: unset;
   background-clip: unset;
 }
@@ -131,7 +131,7 @@
   background: -webkit-gradient(linear, left top, right top, from(#545454), to(rgba(0, 0, 0, 0.15)));
   background: -webkit-linear-gradient(left, #545454 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   background: linear-gradient(to right, #545454 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
-  -webkit-text-stroke: #1B1C1D 0.78px;
+  -webkit-text-stroke: #164205 0.78px;
 }
 .ui.red.rating .active.icon {
   color: #FF695E;
@@ -363,14 +363,14 @@
 }
 .ui.black.rating .active.icon {
   color: #545454;
-  text-shadow: 0px -1px 0px #1B1C1D, -1px 0px 0px #1B1C1D, 0px 1px 0px #1B1C1D, 1px 0px 0px #1B1C1D;
+  text-shadow: 0px -1px 0px #164205, -1px 0px 0px #164205, 0px 1px 0px #164205, 1px 0px 0px #164205;
 }
 .ui.black.rating .icon.selected,
 .ui.black.rating .icon.selected.active,
 .ui.black.rating .icon.selected.partial.active {
   background: inherit;
   color: #000000;
-  text-shadow: 0px -1px 0px #27292a, -1px 0px 0px #27292a, 0px 1px 0px #27292a, 1px 0px 0px #27292a;
+  text-shadow: 0px -1px 0px #1e5a07, -1px 0px 0px #1e5a07, 0px 1px 0px #1e5a07, 1px 0px 0px #1e5a07;
   -webkit-text-stroke: unset;
   background-clip: unset;
 }
@@ -378,7 +378,7 @@
   background: -webkit-gradient(linear, left top, right top, from(#545454), to(rgba(0, 0, 0, 0.15)));
   background: -webkit-linear-gradient(left, #545454 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
   background: linear-gradient(to right, #545454 0% var(--full), rgba(0, 0, 0, 0.15) var(--full) 100%);
-  -webkit-text-stroke: #1B1C1D 0.78px;
+  -webkit-text-stroke: #164205 0.78px;
 }
 
 

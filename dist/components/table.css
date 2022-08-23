@@ -25,7 +25,7 @@
   border-radius: 0.28571429rem;
   text-align: left;
   vertical-align: middle;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   border-collapse: separate;
   border-spacing: 0;
 }
@@ -69,7 +69,7 @@
   cursor: auto;
   background: #F9FAFB;
   text-align: inherit;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   padding: 0.92857143em 0.78571429em;
   vertical-align: inherit;
   font-style: none;
@@ -102,7 +102,7 @@
   border-top: 1px solid rgba(34, 36, 38, 0.15);
   background: #F9FAFB;
   text-align: inherit;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
   padding: 0.78571429em 0.78571429em;
   vertical-align: inherit;
   font-style: normal;
@@ -250,12 +250,12 @@
             box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #54C8FF inset;
   }
   .ui.ui.ui.ui.table:not(.unstackable) tr[class*="secondary marked"].left {
-    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
-            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
+    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
+            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
   }
   .ui.ui.ui.ui.table:not(.unstackable) tr[class*="secondary marked"].right {
-    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
-            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
+    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
+            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
   }
   .ui.ui.ui.ui.inverted.table:not(.unstackable) tr[class*="secondary marked"].left {
     -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #545454 inset;
@@ -458,12 +458,12 @@
             box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #DCDDDE inset;
   }
   .ui.ui.ui.ui.table:not(.unstackable) tr[class*="black marked"].left {
-    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
-            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
+    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
+            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
   }
   .ui.ui.ui.ui.table:not(.unstackable) tr[class*="black marked"].right {
-    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
-            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
+    -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
+            box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
   }
   .ui.ui.ui.ui.inverted.table:not(.unstackable) tr[class*="black marked"].left {
     -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #545454 inset;
@@ -898,15 +898,15 @@
 
 .ui.ui.ui.ui.table tr.active,
 .ui.ui.table td.active {
-  -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.87) inset;
-          box-shadow: 0 0 0 rgba(0, 0, 0, 0.87) inset;
+  -webkit-box-shadow: 0 0 0 #420538 inset;
+          box-shadow: 0 0 0 #420538 inset;
   background: #E0E0E0;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.ui.ui.ui.inverted.table tr.active,
 .ui.ui.inverted.table td.active {
   background: #A0A0A0;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 
 /*--------------
@@ -1005,12 +1005,12 @@
           box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #54C8FF inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].table tr[class*="secondary marked"].left {
-  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
+          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].table tr[class*="secondary marked"].right {
-  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
+          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].inverted.table tr[class*="secondary marked"].left {
   -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #545454 inset;
@@ -1213,12 +1213,12 @@
           box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #DCDDDE inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].table tr[class*="black marked"].left {
-  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
+          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #164205 inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].table tr[class*="black marked"].right {
-  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
+          box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, -0.2em 0 0 0 #164205 inset;
 }
 .ui.ui.ui.ui[class*="tablet stackable"].inverted.table tr[class*="black marked"].left {
   -webkit-box-shadow: 0 -1px 0 0 rgba(0, 0, 0, 0.1) inset, 0.2em 0 0 0 #545454 inset;
@@ -1336,7 +1336,7 @@
 .ui.table tr td.selectable.active:hover,
 .ui.selectable.table tr:hover td.active {
   background: #E0E0E0;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.ui.selectable.table tr.positive:hover,
 .ui.table tr td.selectable.positive:hover,
@@ -1542,10 +1542,10 @@
           box-shadow: -0.2em 0 0 0 #54C8FF inset;
 }
 .ui.secondary.table {
-  border-top: 0.2em solid #1B1C1D;
+  border-top: 0.2em solid #164205;
 }
 .ui.inverted.secondary.table {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 
@@ -1564,8 +1564,8 @@
 }
 .ui.inverted.scrolling.table > thead.secondary,
 .ui.inverted.scrolling.table > tfoot.secondary {
-  background: #1B1C1D;
-  color: #1B1C1D;
+  background: #164205;
+  color: #164205;
 }
 .ui.inverted.scrolling.table > thead.secondary > tr > th,
 .ui.inverted.scrolling.table > tfoot.secondary > tr > th,
@@ -1598,7 +1598,7 @@
 .ui.ui.ui.ui.inverted.table tr.secondary:not(.marked),
 .ui.ui.inverted.table th.secondary:not(.marked),
 .ui.ui.inverted.table td.secondary:not(.marked) {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 .ui.inverted.table > thead > tr[class*="secondary colored"] > th,
@@ -1630,13 +1630,13 @@
 }
 .ui.table td[class*="secondary marked"].left,
 .ui.table tr[class*="secondary marked"].left {
-  -webkit-box-shadow: 0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0.2em 0 0 0 #164205 inset;
+          box-shadow: 0.2em 0 0 0 #164205 inset;
 }
 .ui.table td[class*="secondary marked"].right,
 .ui.table tr[class*="secondary marked"].right {
-  -webkit-box-shadow: -0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: -0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: -0.2em 0 0 0 #164205 inset;
+          box-shadow: -0.2em 0 0 0 #164205 inset;
 }
 .ui.inverted.table td[class*="secondary marked"].left,
 .ui.inverted.table tr[class*="secondary marked"].left {
@@ -2933,10 +2933,10 @@
           box-shadow: -0.2em 0 0 0 #DCDDDE inset;
 }
 .ui.black.table {
-  border-top: 0.2em solid #1B1C1D;
+  border-top: 0.2em solid #164205;
 }
 .ui.inverted.black.table {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 
@@ -2955,8 +2955,8 @@
 }
 .ui.inverted.scrolling.table > thead.black,
 .ui.inverted.scrolling.table > tfoot.black {
-  background: #1B1C1D;
-  color: #1B1C1D;
+  background: #164205;
+  color: #164205;
 }
 .ui.inverted.scrolling.table > thead.black > tr > th,
 .ui.inverted.scrolling.table > tfoot.black > tr > th,
@@ -2989,7 +2989,7 @@
 .ui.ui.ui.ui.inverted.table tr.black:not(.marked),
 .ui.ui.inverted.table th.black:not(.marked),
 .ui.ui.inverted.table td.black:not(.marked) {
-  background: #1B1C1D;
+  background: #164205;
   color: #FFFFFF;
 }
 .ui.inverted.table > thead > tr[class*="black colored"] > th,
@@ -3017,17 +3017,17 @@
 .ui.inverted.table tr td.selectable.black:not(.marked):hover,
 .ui.inverted.selectable.table tr:hover td.black:not(.marked) {
   background: #000000;
-  color: #1B1C1D;
+  color: #164205;
 }
 .ui.table td[class*="black marked"].left,
 .ui.table tr[class*="black marked"].left {
-  -webkit-box-shadow: 0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: 0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: 0.2em 0 0 0 #164205 inset;
+          box-shadow: 0.2em 0 0 0 #164205 inset;
 }
 .ui.table td[class*="black marked"].right,
 .ui.table tr[class*="black marked"].right {
-  -webkit-box-shadow: -0.2em 0 0 0 #1B1C1D inset;
-          box-shadow: -0.2em 0 0 0 #1B1C1D inset;
+  -webkit-box-shadow: -0.2em 0 0 0 #164205 inset;
+          box-shadow: -0.2em 0 0 0 #164205 inset;
 }
 .ui.inverted.table td[class*="black marked"].left,
 .ui.inverted.table tr[class*="black marked"].left {
@@ -3168,7 +3168,7 @@
 .ui.sortable.table > thead > tr > th {
   cursor: pointer;
   white-space: nowrap;
-  color: rgba(0, 0, 0, 0.87);
+  color: #420538;
 }
 .ui.celled.sortable.table > thead > tr > th:not(:first-child) {
   border-left: 1px solid rgba(34, 36, 38, 0.15);
